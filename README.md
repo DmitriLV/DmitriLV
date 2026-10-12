@@ -7,4 +7,15 @@
 Решения для аналитики данных и предсказаний, помогающие оптимизировать расходы и увеличить продажи
 Решения на основе ИИ-агентов для генерации различного маркетингового контента (карусели, видео и пр.), помогающие привлекать клиентов и повышать продажи
 
+### Технические навыки:
+
+Machine Learning & AI: GLM, Decision Trees, Random Forests, XGBoost, LightGBM, SVM, Clustering, PCA,
+Deep Learning (CNN, RNN, transformers), NLP, Large Language Models, RAG, OPenAI API, Claude API
+
+Programming languages and libraries: SQL, Python (Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn,
+PyTorch, Tensorflow, Keras, Flask), MATLAB, Hugging Face, LangChain
+
+Platforms and tools: AWS, GCP, BigQuery, Amazon SageMaker, PySpark, Tableau, Cursor AI, Docker, Git
+
+
 
